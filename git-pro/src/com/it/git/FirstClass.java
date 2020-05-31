@@ -7,6 +7,7 @@ public class FirstClass {
         System.out.println("xxx");
     }
     public void test(){
-
+        int x = 0;
+        System.out.println(x);
     }
 }
