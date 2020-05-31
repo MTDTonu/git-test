@@ -6,4 +6,7 @@ public class FirstClass {
 
         System.out.println("xxx");
     }
+    public void test(){
+
+    }
 }
